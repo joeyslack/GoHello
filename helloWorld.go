@@ -1,1 +1,1 @@
-be7f1866-2dac-11e5-8ab9-28cfe9218f7b
+writeln('Hello world')
